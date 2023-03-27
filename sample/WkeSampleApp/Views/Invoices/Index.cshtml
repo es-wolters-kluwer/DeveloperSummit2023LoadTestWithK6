@@ -1,0 +1,58 @@
+﻿@using WkeSampleLoadApp.a3innuva
+
+@model List<InvoiceModel>
+@{
+    ViewData["Title"] = "Home Page";
+    var companyCorrelationId = ViewBag.companyCorrelationId;
+}
+
+<div class="text-center">
+    
+    <h1 class="display-4">Lista de facturas</h1>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <td>
+                    Fecha
+                </td>
+                <td style="text-align: left;">
+                    Concepto
+                </td>
+                <td style="text-align: left;">
+                    Cuenta
+                </td>
+                <td>
+                    Total
+                </td>
+                <td>
+                    options
+                </td>
+            </tr>
+        </thead>
+        <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @item.InvoiceDate
+                </td>
+                <td style="text-align: left;">
+                    @item.Concept
+                </td>
+                <td style="text-align: left;">
+                    @item.AccountCode
+                </td>
+                <td >
+                    @item.Total
+                </td>
+                <td>
+                    @Html.ActionLink("Ver", "Details", "Invoices", new { Area = "", companyCorrelationId = companyCorrelationId, invoiceCorrelationId = item.CorrelationId }, new { @class = "btn" })
+                    @Html.ActionLink("Editar", "Edit", "Invoices", new { Area = "", companyCorrelationId = companyCorrelationId, invoiceCorrelationId = item.CorrelationId }, new { @class = "btn" })                        
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+
+</div>

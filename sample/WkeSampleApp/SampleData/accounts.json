@@ -1,0 +1,6090 @@
+[
+  {
+    "correlationId": "9cb8b287-6de5-468a-862a-e5c7f56781ee",
+    "code": "1000000000",
+    "description": "Capital social !!!!",
+    "state": "Enabled",
+    "version": "2021-11-18T14:40:48.0103076Z",
+    "sequenceVersion": "637728432480103443"
+  },
+  {
+    "correlationId": "",
+    "code": "1010000000",
+    "description": "Fondo social",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1020000000",
+    "description": "Capital",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1030000000",
+    "description": "Socios por desembolsos no exigidos, capital social",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1034000000",
+    "description": "Socios por desembolsos no exigidos, capital pendiente de inscripci�n",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1040000000",
+    "description": "Socios por aportaciones no dinerarias pendientes, capital social",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1044000000",
+    "description": "Socios por aportaciones no dinerarias pendientes, capital pendiente de inscripci�n",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1080000000",
+    "description": "Acciones o participaciones propias en situaciones especiales",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1090000000",
+    "description": "Acciones o participaciones propias para reducci�n de capital",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1100000000",
+    "description": "Prima de emisi�n o asunci�n",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1110000000",
+    "description": "Patrimonio neto por emisi�n de instrumentos financieros compuestos",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1111000000",
+    "description": "Resto de instrumentos de patrimonio neto",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1120000000",
+    "description": "Reserva legal",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1130000000",
+    "description": "Reservas voluntarias",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1140000000",
+    "description": "Reservas para acciones o participaciones de la sociedad dominante",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1141000000",
+    "description": "Reservas estatutarias",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1142000000",
+    "description": "Reserva por capital amortizado",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1143000000",
+    "description": "Reserva por fondo de comercio",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1144000000",
+    "description": "Reservas por acciones propias aceptadas en garant�a",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1150000000",
+    "description": "Reservas por p�rdidas y ganancias actuariales y otros ajustes",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1180000000",
+    "description": "Aportaciones de socios o propietarios",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1190000000",
+    "description": "Diferencias por ajuste del capital a euros",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1200000000",
+    "description": "Remanente",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1210000000",
+    "description": "Resultados negativos de ejercicios anteriores",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1290000000",
+    "description": "Resultado del ejercicio",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1300000000",
+    "description": "Subvenciones oficiales de capital",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1310000000",
+    "description": "Donaciones y legados de capital",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1320000000",
+    "description": "Otras subvenciones, donaciones y legados",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1330000000",
+    "description": "Ajustes por valoraci�n en activos financieros disponibles para la venta",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1340000000",
+    "description": "Cobertura de flujos de efectivo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1341000000",
+    "description": "Cobertura de una inversi�n neta en un negocio en el extranjero",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1350000000",
+    "description": "Diferencias de conversi�n",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1360000000",
+    "description": "Ajustes por valoraci�n en activos no corrientes y grupos enajenables de elementos, mantenidos para la venta",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1370000000",
+    "description": "Ingresos fiscales por diferencias permanentes a distribuir en varios ejercicios",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1371000000",
+    "description": "Ingresos fiscales por deducciones y bonificaciones a distribuir en varios ejercicios",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1400000000",
+    "description": "Provisi�n por retribuciones a largo plazo al personal",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1410000000",
+    "description": "Provisi�n para impuestos",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1420000000",
+    "description": "Provisi�n para otras responsabilidades",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1430000000",
+    "description": "Provisi�n por desmantelamiento, retiro o rehabilitaci�n del inmovilizado",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1450000000",
+    "description": "Provisi�n para actuaciones medioambientales",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1460000000",
+    "description": "Provisi�n para reestructuraciones",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1470000000",
+    "description": "Provisi�n por transacciones con pagos basados en instrumentos de patrimonio",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1500000000",
+    "description": "Acciones o participaciones a largo plazo consideradas como pasivos financieros",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1530000000",
+    "description": "Desembolsos no exigidos por acciones o participaciones consideradas como pasivos financieros",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1533000000",
+    "description": "Desembolsos no exigidos, empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1534000000",
+    "description": "Desembolsos no exigidos, empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1535000000",
+    "description": "Desembolsos no exigidos, otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1536000000",
+    "description": "Otros desembolsos no exigidos",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1540000000",
+    "description": "Aportaciones no dinerarias pendientes por acciones o participaciones consideradas como pasivos financieros",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1543000000",
+    "description": "Aportaciones no dinerarias pendientes, empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1544000000",
+    "description": "Aportaciones no dinerarias pendientes, empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1545000000",
+    "description": "Aportaciones no dinerarias pendientes, otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1546000000",
+    "description": "Otras aportaciones no dinerarias pendientes",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1600000000",
+    "description": "Deudas a largo plazo con entidades de cr�dito vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1603000000",
+    "description": "Deudas a largo plazo con entidades de cr�dito, empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1604000000",
+    "description": "Deudas a largo plazo con entidades de cr�dito, empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1605000000",
+    "description": "Deudas a largo plazo con otras entidades de cr�dito vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1610000000",
+    "description": "Proveedores de inmovilizado a largo plazo, partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1613000000",
+    "description": "Proveedores de inmovilizado a largo plazo, empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1614000000",
+    "description": "Proveedores de inmovilizado a largo plazo, empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1615000000",
+    "description": "Proveedores de inmovilizado a largo plazo, otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1620000000",
+    "description": "Acreedores por arrendamiento financiero a largo plazo, partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1623000000",
+    "description": "Acreedores por arrendamiento financiero a largo plazo, empresas de grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1624000000",
+    "description": "Acreedores por arrendamiento financiero a largo plazo, empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1625000000",
+    "description": "Acreedores por arrendamiento financiero a largo plazo, otras partes vinculadas.",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1630000000",
+    "description": "Otras deudas a largo plazo con partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1633000000",
+    "description": "Otras deudas a largo plazo, empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1634000000",
+    "description": "Otras deudas a largo plazo, empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1635000000",
+    "description": "Otras deudas a largo plazo, con otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1700000000",
+    "description": "Deudas a largo plazo con entidades de cr�dito",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1710000000",
+    "description": "Deudas a largo plazo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1720000000",
+    "description": "Deudas a largo plazo transformables en subvenciones, donaciones y legados",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "c9108b92-2aab-48f1-8153-b977fd30ceb3",
+    "code": "1730000000",
+    "description": "Proveedores de inmovilizado a largo plazo",
+    "state": "Enabled",
+    "version": "2021-11-18T12:00:46.3970487Z",
+    "sequenceVersion": "637728336463970473"
+  },
+  {
+    "correlationId": "11417271-3b6c-41c5-96f2-f6ff29cd514a",
+    "code": "1740000000",
+    "description": "Acreedores por arrendamiento financiero a largo plazo",
+    "state": "Enabled",
+    "version": "2021-11-18T12:00:46.3970487Z",
+    "sequenceVersion": "637728336463970473"
+  },
+  {
+    "correlationId": "",
+    "code": "1750000000",
+    "description": "Efectos a pagar a largo plazo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1760000000",
+    "description": "Pasivos por derivados financieros a largo plazo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1765000000",
+    "description": "Pasivos por derivados financieros a largo plazo, cartera de negociaci�n",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1768000000",
+    "description": "Pasivos por derivados financieros a largo plazo, instrumentos de cobertura",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1770000000",
+    "description": "Obligaciones y bonos",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1780000000",
+    "description": "Obligaciones y bonos convertibles",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1790000000",
+    "description": "Deudas representadas en otros valores negociables",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1800000000",
+    "description": "Fianzas recibidas a largo plazo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1810000000",
+    "description": "Anticipos recibidos por ventas o prestaciones de servicios a largo plazo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1850000000",
+    "description": "Dep�sitos recibidos a largo plazo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1890000000",
+    "description": "Garant�as financieras a largo plazo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1900000000",
+    "description": "Acciones o participaciones emitidas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1920000000",
+    "description": "Suscriptores de acciones",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1940000000",
+    "description": "Capital emitido pendiente de inscripci�n",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1950000000",
+    "description": "Acciones o participaciones emitidas consideradas como pasivos financieros",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1970000000",
+    "description": "Suscriptores de acciones consideradas como pasivos financieros",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "1990000000",
+    "description": "Acciones o participaciones emitidas consideradas como pasivos financieros pendientes de inscripci�n.",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2000000000",
+    "description": "Investigaci�n",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2010000000",
+    "description": "Desarrollo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2020000000",
+    "description": "Concesiones administrativas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2030000000",
+    "description": "Propiedad industrial",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2040000000",
+    "description": "Fondo de comercio",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2050000000",
+    "description": "Derechos de traspaso",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2060000000",
+    "description": "Aplicaciones inform�ticas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2090000000",
+    "description": "Anticipos para inmovilizaciones intangibles",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2100000000",
+    "description": "Terrenos y bienes naturales",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2110000000",
+    "description": "Construcciones",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2120000000",
+    "description": "Instalaciones t�cnicas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2130000000",
+    "description": "Maquinaria",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2140000000",
+    "description": "Utillaje",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2150000000",
+    "description": "Otras instalaciones",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2160000000",
+    "description": "Mobiliario",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2170000000",
+    "description": "Equipos para procesos de informaci�n",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2180000000",
+    "description": "Elementos de transporte",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2190000000",
+    "description": "Otro inmovilizado material",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2200000000",
+    "description": "Inversiones en terrenos y bienes naturales",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2210000000",
+    "description": "Inversiones en construcciones",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2300000000",
+    "description": "Adaptaci�n de terrenos y bienes naturales",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2310000000",
+    "description": "Construcciones en curso",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2320000000",
+    "description": "Instalaciones t�cnicas en montaje",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2330000000",
+    "description": "Maquinaria en montaje",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2370000000",
+    "description": "Equipos para procesos de informaci�n en montaje",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2390000000",
+    "description": "Anticipos para inmovilizaciones materiales",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2400000000",
+    "description": "Participaciones a largo plazo en partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2403000000",
+    "description": "Participaciones a largo plazo en empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2404000000",
+    "description": "Participaciones a largo plazo en empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2405000000",
+    "description": "Participaciones a largo plazo en otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2410000000",
+    "description": "Valores representativos de deuda a largo plazo de partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2413000000",
+    "description": "Valores representativos de deuda a largo plazo de empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2414000000",
+    "description": "Valores representativos de deuda a largo plazo de empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2415000000",
+    "description": "Valores representativos de deuda a largo plazo de otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2420000000",
+    "description": "Cr�ditos a largo plazo a partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2423000000",
+    "description": "Cr�ditos a largo plazo a empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2424000000",
+    "description": "Cr�ditos a largo plazo a empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2425000000",
+    "description": "Cr�ditos a largo plazo a otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2490000000",
+    "description": "Desembolsos pendientes sobre participaciones a largo plazo en partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2493000000",
+    "description": "Desembolsos pendientes sobre participaciones a largo plazo en empresas del grupo.",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2494000000",
+    "description": "Desembolsos pendientes sobre participaciones a largo plazo en empresas asociadas.",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2495000000",
+    "description": "Desembolsos pendientes sobre participaciones a largo plazo en otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2500000000",
+    "description": "Inversiones financieras a largo plazo en instrumentos de patrimonio",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2510000000",
+    "description": "Valores representativos de deuda a largo plazo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2520000000",
+    "description": "Cr�ditos a largo plazo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2530000000",
+    "description": "Cr�ditos a largo plazo por enajenaci�n de in movilizado",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2540000000",
+    "description": "Cr�ditos a largo plazo al personal",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2550000000",
+    "description": "Activos por derivados financieros a largo plazo, cartera de negociaci�n",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2553000000",
+    "description": "Activos por derivados financieros a largo plazo, instrumentos de cobertura",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2570000000",
+    "description": "Derechos de reembolso derivados de contratos de seguro relativos a retribuciones a largo plazo al personal",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2580000000",
+    "description": "Imposiciones a largo plazo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2590000000",
+    "description": "Desembolsos pendientes sobre participaciones en el patrimonio neto a largo plazo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2600000000",
+    "description": "Fianzas constituidas a largo plazo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2650000000",
+    "description": "Dep�sitos constituidos a largo plazo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2800000000",
+    "description": "Amortizaci�n acumulada de investigaci�n",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2801000000",
+    "description": "Amortizaci�n acumulada de desarrollo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2802000000",
+    "description": "Amortizaci�n acumulada de concesiones administrativas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2803000000",
+    "description": "Amortizaci�n acumulada de propiedad industrial",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2805000000",
+    "description": "Amortizaci�n acumulada de derechos de traspaso",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2806000000",
+    "description": "Amortizaci�n acumulada de aplicaciones inform�ticas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2810000000",
+    "description": "Amortizaci�n acumulada del inmovilizado material",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2811000000",
+    "description": "Amortizaci�n acumulada de construcciones",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2812000000",
+    "description": "Amortizaci�n acumulada de instalaciones t�cnicas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2813000000",
+    "description": "Amortizaci�n acumulada de maquinaria",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2814000000",
+    "description": "Amortizaci�n acumulada de utillaje",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2815000000",
+    "description": "Amortizaci�n acumulada de otras instalaciones",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2816000000",
+    "description": "Amortizaci�n acumulada de mobiliario",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2817000000",
+    "description": "Amortizaci�n acumulada de equipos para procesos de informaci�n",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2818000000",
+    "description": "Amortizaci�n acumulada de elementos de transporte",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2819000000",
+    "description": "Amortizaci�n acumulada de otro inmovilizado material",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2820000000",
+    "description": "Amortizaci�n acumulada de las inversiones inmobiliarias",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2900000000",
+    "description": "Deterioro de valor de investigaci�n",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2901000000",
+    "description": "Deterioro del valor de desarrollo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2902000000",
+    "description": "Deterioro de valor de concesiones administrativas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2903000000",
+    "description": "Deterioro de valor de propiedad industrial",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2905000000",
+    "description": "Deterioro de valor de derechos de traspaso",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2906000000",
+    "description": "Deterioro de valor de aplicaciones inform�ticas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2910000000",
+    "description": "Deterioro de valor de terrenos y bienes naturales",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2911000000",
+    "description": "Deterioro de valor de construcciones",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2912000000",
+    "description": "Deterioro de valor de instalaciones t�cnicas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2913000000",
+    "description": "Deterioro de valor de maquinaria",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2914000000",
+    "description": "Deterioro de valor de utillaje",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2915000000",
+    "description": "Deterioro de valor de otras instalaciones",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2916000000",
+    "description": "Deterioro de valor de mobiliario",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2917000000",
+    "description": "Deterioro de valor de equipos para procesos de informaci�n",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2918000000",
+    "description": "Deterioro de valor de elementos de transporte",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2919000000",
+    "description": "Deterioro de valor de otro inmovilizado material",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2920000000",
+    "description": "Deterioro de valor de los terrenos y bienes naturales",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2921000000",
+    "description": "Deterioro de valor de construcciones",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2930000000",
+    "description": "Deterioro de valor de participaciones a largo plazo en partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2933000000",
+    "description": "Deterioro de valor de participaciones a largo plazo en empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2934000000",
+    "description": "Deterioro de valor de participaciones a largo plazo en empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2940000000",
+    "description": "Deterioro de valor de valores representativos de deuda a largo plazo de partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2943000000",
+    "description": "Deterioro de valor de valores representativos de deuda a largo plazo de empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2944000000",
+    "description": "Deterioro de valor de valores representativos de deuda a largo plazo de empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2945000000",
+    "description": "Deterioro de valor de valores representativos de deuda a largo plazo de otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2950000000",
+    "description": "Deterioro de valor de cr�ditos a largo plazo a partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2953000000",
+    "description": "Deterioro de valor de cr�ditos a largo plazo a empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2954000000",
+    "description": "Deterioro de valor de cr�ditos a largo plazo a empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2955000000",
+    "description": "Deterioro de valor de cr�ditos a largo plazo a otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2970000000",
+    "description": "Deterioro de valor de valores representativos de deuda a largo plazo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "2980000000",
+    "description": "Deterioro de valor de cr�ditos a largo plazo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "3000000000",
+    "description": "Mercader�as A",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "3010000000",
+    "description": "Mercader�as B",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "3100000000",
+    "description": "Materias primas A",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "3110000000",
+    "description": "Materias primas B",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "3200000000",
+    "description": "Elementos y conjuntos incorporables",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "3210000000",
+    "description": "Combustibles",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "3220000000",
+    "description": "Repuestos",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "3250000000",
+    "description": "Materiales diversos",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "3260000000",
+    "description": "Embalajes",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "3270000000",
+    "description": "Envases",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "3280000000",
+    "description": "Material de oficina",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "3300000000",
+    "description": "Productos en curso A",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "3310000000",
+    "description": "Productos en curso B",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "3400000000",
+    "description": "Productos semiterminados A",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "3410000000",
+    "description": "Productos semiterminados B",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "3500000000",
+    "description": "Productos terminados A",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "3510000000",
+    "description": "Productos terminados B",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "3600000000",
+    "description": "Subproductos A",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "3610000000",
+    "description": "Subproductos B",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "3650000000",
+    "description": "Residuos A",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "3660000000",
+    "description": "Residuos B",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "3680000000",
+    "description": "Materiales recuperados A",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "3690000000",
+    "description": "Materiales recuperados B",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "3900000000",
+    "description": "Deterioro de valor de las mercader�as",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "3910000000",
+    "description": "Deterioro de valor de las materias primas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "3920000000",
+    "description": "Deterioro de valor de otros aprovisionamientos",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "3930000000",
+    "description": "Deterioro de valor de los productos en curso",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "3940000000",
+    "description": "Deterioro de valor de los productos semiterminados",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "3950000000",
+    "description": "Deterioro de valor de los productos terminados",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "3960000000",
+    "description": "Deterioro de valor de los subproductos, residuos y materiales recuperados",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "f531762d-2566-4042-8973-70cac090e544",
+    "code": "4000000000",
+    "description": "Proveedores (euros)",
+    "state": "Enabled",
+    "version": "2021-11-18T12:00:46.3970487Z",
+    "sequenceVersion": "637728336463970473"
+  },
+  {
+    "correlationId": "",
+    "code": "4004000000",
+    "description": "Proveedores (moneda extranjera)",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4009000000",
+    "description": "Proveedores, facturas pendientes de recibir o de formalizar",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4010000000",
+    "description": "Proveedores, efectos comerciales a pagar",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "3c43d4e4-6794-4037-ba59-0240ae7fd507",
+    "code": "4030000000",
+    "description": "Proveedores, empresas del grupo (euros)",
+    "state": "Enabled",
+    "version": "2021-11-18T12:00:46.3970487Z",
+    "sequenceVersion": "637728336463970473"
+  },
+  {
+    "correlationId": "",
+    "code": "4031000000",
+    "description": "Efectos comerciales a pagar, empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4034000000",
+    "description": "Proveedores, empresas del grupo (moneda extranjera)",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4036000000",
+    "description": "Envases y embalajes a devolver a proveedores, empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4039000000",
+    "description": "Proveedores, empresas del grupo, facturas pendientes de recibir o de formalizar",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "a70497d5-d701-4e08-815b-2de1529be6a8",
+    "code": "4040000000",
+    "description": "Proveedores, empresas asociadas",
+    "state": "Enabled",
+    "version": "2021-11-18T12:00:46.3970487Z",
+    "sequenceVersion": "637728336463970473"
+  },
+  {
+    "correlationId": "f1fcc1ff-ad13-4fde-a05d-3231381970ea",
+    "code": "4050000000",
+    "description": "Proveedores, otras partes vinculadas",
+    "state": "Enabled",
+    "version": "2021-11-18T12:00:46.3970487Z",
+    "sequenceVersion": "637728336463970473"
+  },
+  {
+    "correlationId": "",
+    "code": "4060000000",
+    "description": "Envases y embalajes a devolver a proveedores",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4070000000",
+    "description": "Anticipos a proveedores",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "79a3ff2a-2ff3-494e-b62d-cd520f733e5f",
+    "code": "4100000000",
+    "description": "Acreedores por prestaciones de servicios (euros)",
+    "state": "Enabled",
+    "version": "2021-11-18T12:00:46.3970487Z",
+    "sequenceVersion": "637728336463970473"
+  },
+  {
+    "correlationId": "",
+    "code": "4104000000",
+    "description": "Acreedores por prestaciones de servicios, (moneda extranjera)",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4109000000",
+    "description": "Acreedores por prestaciones de servicios, facturas pendientes de recibir o de formalizar",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "8c195324-3919-4b1a-bff8-ccb332819bec",
+    "code": "4110000000",
+    "description": "Acreedores, efectos comerciales a pagar",
+    "state": "Enabled",
+    "version": "2021-11-18T12:00:46.3970487Z",
+    "sequenceVersion": "637728336463970473"
+  },
+  {
+    "correlationId": "",
+    "code": "4190000000",
+    "description": "Acreedores por operaciones en com�n",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "e0d292f5-b584-4455-a649-82e9ac0e2236",
+    "code": "4300000000",
+    "description": "Clientes (euros)",
+    "state": "Enabled",
+    "version": "2021-11-18T12:00:46.3970487Z",
+    "sequenceVersion": "637728336463970473"
+  },
+  {
+    "correlationId": "",
+    "code": "4304000000",
+    "description": "Clientes (moneda extranjera)",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4309000000",
+    "description": "Clientes, facturas pendientes de formalizar",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "83560ad3-62c0-4e23-854a-7da74f4a8e0e",
+    "code": "4310000000",
+    "description": "Efectos comerciales en cartera",
+    "state": "Enabled",
+    "version": "2021-11-18T12:00:46.3970487Z",
+    "sequenceVersion": "637728336463970473"
+  },
+  {
+    "correlationId": "",
+    "code": "4311000000",
+    "description": "Efectos comerciales descontados",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4312000000",
+    "description": "Efectos comerciales en gesti�n de cobro",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4315000000",
+    "description": "Efectos comerciales impagados",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "8b78130d-5f51-4acd-8723-bd9bcd78a110",
+    "code": "4320000000",
+    "description": "Clientes, operaciones de �factoring�",
+    "state": "Enabled",
+    "version": "2021-11-18T12:00:46.3970487Z",
+    "sequenceVersion": "637728336463970473"
+  },
+  {
+    "correlationId": "0e3b68c1-4841-40bd-94d6-af9391f15b9d",
+    "code": "4330000000",
+    "description": "Clientes empresas del grupo (euros)",
+    "state": "Enabled",
+    "version": "2021-11-18T12:00:46.3970487Z",
+    "sequenceVersion": "637728336463970473"
+  },
+  {
+    "correlationId": "",
+    "code": "4331000000",
+    "description": "Efectos comerciales a cobrar, empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4332000000",
+    "description": "Clientes empresas del grupo, operaciones de �factoring�",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4334000000",
+    "description": "Clientes empresas del grupo (moneda extranjera)",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4336000000",
+    "description": "Clientes empresas del grupo de dudoso cobro",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4337000000",
+    "description": "Envases y embalajes a devolver a clientes, empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4339000000",
+    "description": "Clientes empresas del grupo, facturas pendientes de formalizar",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "78b0ec61-6edd-44c4-96b6-7fa625981d8f",
+    "code": "4340000000",
+    "description": "Clientes, empresas asociadas",
+    "state": "Enabled",
+    "version": "2021-11-18T12:00:46.3970487Z",
+    "sequenceVersion": "637728336463970473"
+  },
+  {
+    "correlationId": "3079fb79-bf29-4351-9aaf-2fd14500254c",
+    "code": "4350000000",
+    "description": "Clientes, otras partes vinculadas",
+    "state": "Enabled",
+    "version": "2021-11-18T12:00:46.3970487Z",
+    "sequenceVersion": "637728336463970473"
+  },
+  {
+    "correlationId": "",
+    "code": "4360000000",
+    "description": "Clientes de dudoso cobro",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4370000000",
+    "description": "Envases y embalajes a devolver por clientes",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4380000000",
+    "description": "Anticipos de clientes",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "64790d7e-dd14-491a-afd9-5f0bc2cc9731",
+    "code": "4400000000",
+    "description": "Deudores (euros)",
+    "state": "Enabled",
+    "version": "2021-11-18T12:00:46.3970487Z",
+    "sequenceVersion": "637728336463970473"
+  },
+  {
+    "correlationId": "",
+    "code": "4404000000",
+    "description": "Deudores (moneda extranjera)",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4409000000",
+    "description": "Deudores, facturas pendientes de formalizar",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4410000000",
+    "description": "Deudores, efectos comerciales en cartera",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4411000000",
+    "description": "Deudores, efectos comerciales descontados",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4412000000",
+    "description": "Deudores, efectos comerciales en gesti�n de cobro",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4415000000",
+    "description": "Deudores, efectos comerciales impagados",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4460000000",
+    "description": "Deudores de dudoso cobro",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4490000000",
+    "description": "Deudores por operaciones en com�n",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4600000000",
+    "description": "Anticipos de remuneraciones",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4650000000",
+    "description": "Remuneraciones pendientes de pago",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4660000000",
+    "description": "Remuneraciones mediante sistemas de aportaci�n definida pendientes de pago",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4700000000",
+    "description": "Hacienda p�blica, deudora por IVA",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4708000000",
+    "description": "Hacienda p�blica, deudora por subvenciones concedidas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4709000000",
+    "description": "Hacienda p�blica, deudora por devoluci�n de impuestos",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4710000000",
+    "description": "Organismos de la seguridad social, deudores",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4720000000",
+    "description": "Hacienda p�blica, IVA soportado",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4727000000",
+    "description": "Hacienda P�blica, IGIC soportado",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4730000000",
+    "description": "Hacienda p�blica, retenciones y pagos a cuenta",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4740000000",
+    "description": "Activos por diferencias temporarias deducibles",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4742000000",
+    "description": "Derechos por deducciones y bonificaciones pendientes de aplicar",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4745000000",
+    "description": "Cr�dito por p�rdidas a compensar del ejercicio",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4750000000",
+    "description": "Hacienda p�blica, acreedora por IVA",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4751000000",
+    "description": "Hacienda p�blica, acreedora por retenciones practicadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4752000000",
+    "description": "Hacienda p�blica, acreedora por impuesto sobre sociedades",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4758000000",
+    "description": "Hacienda p�blica, acreedora por subvenciones a reintegrar",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4760000000",
+    "description": "Organismos de la seguridad social, acreedores",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4770000000",
+    "description": "Hacienda p�blica, IVA repercutido",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4777000000",
+    "description": "Hacienda P�blica, IGIC repercutido",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4790000000",
+    "description": "Pasivos por diferencias temporarias imponibles",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4800000000",
+    "description": "Gastos anticipados",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4850000000",
+    "description": "Ingresos anticipados",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4900000000",
+    "description": "Deterioro de valor de cr�ditos por operaciones comerciales",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4930000000",
+    "description": "Deterioro de valor de cr�ditos por operaciones comerciales con partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4933000000",
+    "description": "Deterioro de valor de cr�ditos por operaciones comerciales con empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4934000000",
+    "description": "Deterioro de valor de cr�ditos por operaciones comerciales con empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4935000000",
+    "description": "Deterioro de valor de cr�ditos por operaciones comerciales con otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4990000000",
+    "description": "Provisiones por operaciones comerciales",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4994000000",
+    "description": "Provisi�n por contratos onerosos",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "4999000000",
+    "description": "Provisi�n para otras operaciones comerciales",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5000000000",
+    "description": "Obligaciones y bonos a corto plazo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5010000000",
+    "description": "Obligaciones y bonos convertibles a corto plazo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5020000000",
+    "description": "Acciones o participaciones a corto plazo consideradas como pasivos financieros",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5050000000",
+    "description": "Deudas representadas en otros valores negociables a corto plazo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5060000000",
+    "description": "Intereses a corto plazo de empr�stitos y otras emisiones an�logas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5070000000",
+    "description": "Dividendos de acciones o participaciones consideradas como pasivos financieros",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5090000000",
+    "description": "Obligaciones y bonos amortizados",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5091000000",
+    "description": "Obligaciones y bonos convertibles amortizados",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5095000000",
+    "description": "Otros valores negociables amortizados",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5100000000",
+    "description": "Deudas a corto plazo con entidades de cr�dito vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5103000000",
+    "description": "Deudas a corto plazo con entidades de cr�dito, empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5104000000",
+    "description": "Deudas a corto plazo con entidades de cr�dito, empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5105000000",
+    "description": "Deudas a corto plazo con otras entidades de cr�dito vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5110000000",
+    "description": "Proveedores de inmovilizado a corto plazo, partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5113000000",
+    "description": "Proveedores de inmovilizado a corto plazo, empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5114000000",
+    "description": "Proveedores de inmovilizado a corto plazo, empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5115000000",
+    "description": "Proveedores de inmovilizado a corto plazo, otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5120000000",
+    "description": "Acreedores por arrendamiento financiero a corto plazo, partes vinculadas.",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5123000000",
+    "description": "Acreedores por arrendamiento financiero a corto plazo, empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5124000000",
+    "description": "Acreedores por arrendamiento financiero a corto plazo, empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5125000000",
+    "description": "Acreedores por arrendamiento financiero a corto plazo, otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5130000000",
+    "description": "Otras deudas a corto plazo con partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5133000000",
+    "description": "Otras deudas a corto plazo con empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5134000000",
+    "description": "Otras deudas a corto plazo con empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5135000000",
+    "description": "Otras deudas a corto plazo con otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5140000000",
+    "description": "Intereses a corto plazo de deudas con partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5143000000",
+    "description": "Intereses a corto plazo de deudas, empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5144000000",
+    "description": "Intereses a corto plazo de deudas, empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5145000000",
+    "description": "Intereses a corto plazo de deudas, otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5200000000",
+    "description": "Pr�stamos a corto plazo de entidades de cr�dito",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5201000000",
+    "description": "Deudas a corto plazo por cr�dito dispuesto",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5208000000",
+    "description": "Deudas por efectos descontados",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5209000000",
+    "description": "Deudas por operaciones de �factoring�",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5210000000",
+    "description": "Deudas a corto plazo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5220000000",
+    "description": "Deudas a corto plazo transformables en subvenciones, donaciones y legados",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "495a23f5-8996-43a3-8d5d-34c636d56dbe",
+    "code": "5230000000",
+    "description": "Proveedores de inmovilizado a corto plazo",
+    "state": "Enabled",
+    "version": "2021-11-18T12:00:46.3970487Z",
+    "sequenceVersion": "637728336463970473"
+  },
+  {
+    "correlationId": "fcd92f8f-782c-40b1-a9c6-3aeed9c0ecb1",
+    "code": "5240000000",
+    "description": "Acreedores por arrendamiento financiero a corto plazo",
+    "state": "Enabled",
+    "version": "2021-11-18T12:00:46.3970487Z",
+    "sequenceVersion": "637728336463970473"
+  },
+  {
+    "correlationId": "",
+    "code": "5250000000",
+    "description": "Efectos a pagar a corto plazo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5260000000",
+    "description": "Dividendo activo a pagar",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5270000000",
+    "description": "Intereses a corto plazo de deudas con entidades de cr�dito",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5280000000",
+    "description": "Intereses a corto plazo de deudas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5290000000",
+    "description": "Provisi�n a corto plazo por retribuciones al personal",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5291000000",
+    "description": "Provisi�n a corto plazo para impuestos",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5292000000",
+    "description": "Provisi�n a corto plazo para otras responsabilidades",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5293000000",
+    "description": "Provisi�n a corto plazo por desmantelamiento, retiro o rehabilitaci�n del inmovilizado",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5295000000",
+    "description": "Provisi�n a corto plazo para actuaciones medioambientales",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5296000000",
+    "description": "Provisi�n a corto plazo para reestructuraciones",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5297000000",
+    "description": "Provisi�n a corto plazo por transacciones con pagos basados en instrumentos de patrimonio",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5300000000",
+    "description": "Participaciones a corto plazo en partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5303000000",
+    "description": "Participaciones a corto plazo, en empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5304000000",
+    "description": "Participaciones a corto plazo, en empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5305000000",
+    "description": "Participaciones a corto plazo, en otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5310000000",
+    "description": "Valores representativos de deuda a corto plazo de partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5313000000",
+    "description": "Valores representativos de deuda a corto plazo de empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5314000000",
+    "description": "Valores representativos de deuda a corto plazo de empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5315000000",
+    "description": "Valores representativos de deuda a corto plazo de otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5320000000",
+    "description": "Cr�ditos a corto plazo a partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5323000000",
+    "description": "Cr�ditos a corto plazo a empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5324000000",
+    "description": "Cr�ditos a corto plazo a empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5325000000",
+    "description": "Cr�ditos a corto plazo a otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5330000000",
+    "description": "Intereses a corto plazo de valores representativos de deuda de partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5333000000",
+    "description": "Intereses a corto plazo de valores representativos de deuda de empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5334000000",
+    "description": "Intereses a corto plazo de valores representativos de deuda de empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5335000000",
+    "description": "Intereses a corto plazo de valores representativos de deuda de otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5340000000",
+    "description": "Intereses a corto plazo de cr�ditos a partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5343000000",
+    "description": "Intereses a corto plazo de cr�ditos a empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5344000000",
+    "description": "Intereses a corto plazo de cr�ditos a empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5345000000",
+    "description": "Intereses a corto plazo de cr�ditos a otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5350000000",
+    "description": "Dividendo a cobrar de inversiones financieras en partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5353000000",
+    "description": "Dividendo a cobrar de empresas de grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5354000000",
+    "description": "Dividendo a cobrar de empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5355000000",
+    "description": "Dividendo a cobrar de otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5390000000",
+    "description": "Desembolsos pendientes sobre participaciones a corto plazo en partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5393000000",
+    "description": "Desembolsos pendientes sobre participaciones a corto plazo en empresas del grupo.",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5394000000",
+    "description": "Desembolsos pendientes sobre participaciones a corto plazo en empresas asociadas.",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5395000000",
+    "description": "Desembolsos pendientes sobre participaciones a corto plazo en otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5400000000",
+    "description": "Inversiones financieras a corto plazo en instrumentos de patrimonio",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5410000000",
+    "description": "Valores representativos de deuda a corto plazo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5420000000",
+    "description": "Cr�ditos a corto plazo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5430000000",
+    "description": "Cr�ditos a corto plazo por enajenaci�n de inmovilizado",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5440000000",
+    "description": "Cr�ditos a corto plazo al personal",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5450000000",
+    "description": "Dividendo a cobrar",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5460000000",
+    "description": "Intereses a corto plazo de valores representativos de deudas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5470000000",
+    "description": "Intereses a corto plazo de cr�ditos",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5480000000",
+    "description": "Imposiciones a corto plazo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5490000000",
+    "description": "Desembolsos pendientes sobre participaciones en el patrimonio neto a corto plazo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5500000000",
+    "description": "Titular de la explotaci�n",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5510000000",
+    "description": "Cuenta corriente con socios y administradores",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5520000000",
+    "description": "Cuenta corriente con otras personas y entidades vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5523000000",
+    "description": "Cuenta corriente con empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5524000000",
+    "description": "Cuenta corriente con empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5525000000",
+    "description": "Cuenta corriente con otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5530000000",
+    "description": "Socios de sociedad disuelta",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5531000000",
+    "description": "Socios, cuenta de fusi�n",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5532000000",
+    "description": "Socios de sociedad escindida",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5533000000",
+    "description": "Socios, cuenta de escisi�n",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5540000000",
+    "description": "Cuenta corriente con uniones temporales de empresas y comunidades de bienes",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5550000000",
+    "description": "Partidas pendientes de aplicaci�n",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5560000000",
+    "description": "Desembolsos exigidos sobre participaciones en el patrimonio neto",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5563000000",
+    "description": "Desembolsos exigidos sobre participaciones, empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5564000000",
+    "description": "Desembolsos exigidos sobre participaciones, empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5565000000",
+    "description": "Desembolsos exigidos sobre participaciones, otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5566000000",
+    "description": "Desembolsos exigidos sobre participaciones de otras empresas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5570000000",
+    "description": "Dividendo activo a cuenta",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5580000000",
+    "description": "Socios por desembolsos exigidos sobre acciones o participaciones ordinarias",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5585000000",
+    "description": "Socios por desembolsos exigidos sobre acciones o participaciones consideradas como pasivos financieros",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5590000000",
+    "description": "Activos por derivados financieros a corto plazo, cartera de negociaci�n",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5593000000",
+    "description": "Activos por derivados financieros a corto plazo, instrumentos de cobertura",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5595000000",
+    "description": "Pasivos por derivados financieros a corto plazo, cartera de negociaci�n",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5598000000",
+    "description": "Pasivos por derivados financieros a corto plazo, instrumentos de cobertura",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5600000000",
+    "description": "Fianzas recibidas a corto plazo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5610000000",
+    "description": "Dep�sitos recibidos a corto plazo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5650000000",
+    "description": "Fianzas constituidas a corto plazo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5660000000",
+    "description": "Dep�sitos constituidos a corto plazo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5670000000",
+    "description": "Intereses pagados por anticipado",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5680000000",
+    "description": "Intereses cobrados por anticipado",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5690000000",
+    "description": "Garant�as financieras a corto plazo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5700000000",
+    "description": "Caja, euros",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5710000000",
+    "description": "Caja, moneda extranjera",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5720000000",
+    "description": "Bancos e instituciones de cr�dito c/c vista, euros",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5730000000",
+    "description": "Bancos e instituciones de cr�dito c/c vista, moneda extranjera",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5740000000",
+    "description": "Bancos e instituciones de cr�dito, cuentas de ahorro, euros",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5750000000",
+    "description": "Bancos e instituciones de cr�dito, cuentas de ahorro, moneda extranjera",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5760000000",
+    "description": "Inversiones a corto plazo de gran liquidez",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5800000000",
+    "description": "Inmovilizado",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5810000000",
+    "description": "Inversiones con personas y entidades vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5820000000",
+    "description": "Inversiones financieras",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5830000000",
+    "description": "Existencias, deudores comerciales y otras cuentas a cobrar",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5840000000",
+    "description": "Otros activos",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5850000000",
+    "description": "Provisiones",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5860000000",
+    "description": "Deudas con caracter�sticas especiales",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5870000000",
+    "description": "Deudas con personas y entidades vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5880000000",
+    "description": "Acreedores comerciales y otras cuentas a pagar",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5890000000",
+    "description": "Otros pasivos",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5900000000",
+    "description": "Deteriodo del valor de inversiones financieras a corto plazo y de activos no corrientes mantenidos para la venta",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5930000000",
+    "description": "Deterioro de valor de participaciones a corto plazo en partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5933000000",
+    "description": "Deterioro de valor de participaciones a corto plazo en empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5934000000",
+    "description": "Deterioro de valor de participaciones a corto plazo en empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5940000000",
+    "description": "Deterioro de valor de valores representativos de deuda a corto plazo de partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5943000000",
+    "description": "Deterioro de valor de valores representativos de deuda a corto plazo de empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5944000000",
+    "description": "Deterioro de valor de valores representativos de deuda a corto plazo de empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5945000000",
+    "description": "Deterioro de valor de valores representativos de deuda a corto plazo de otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5950000000",
+    "description": "Deterioro de valor de cr�ditos a corto plazo a partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5953000000",
+    "description": "Deterioro de valor de cr�ditos a corto plazo a empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5954000000",
+    "description": "Deterioro de valor de cr�ditos a corto plazo a empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5955000000",
+    "description": "Deterioro de valor de cr�ditos a corto plazo a otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5970000000",
+    "description": "Deterioro de valor de valores representativos de deuda a corto plazo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5980000000",
+    "description": "Deterioro de valor de cr�ditos a corto plazo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5990000000",
+    "description": "Deterioro de valor de inmovilizado no corriente mantenido para la venta",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5991000000",
+    "description": "Deterioro de valor de inversiones con personas y entidades vinculadas no corrientes mantenidas para la venta",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5992000000",
+    "description": "Deterioro de valor de inversiones financieras no corrientes mantenidas para la venta",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5993000000",
+    "description": "Deterioro de valor de existencias, deudores comerciales y otras cuentas a cobrar integrados en un grupo enajenable mantenido para la venta",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "5994000000",
+    "description": "Deterioro de valor de otros activos mantenidos para la venta",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6000000000",
+    "description": "Compras de mercader�as",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6010000000",
+    "description": "Compras de materias primas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6020000000",
+    "description": "Compras de otros aprovisionamientos",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6060000000",
+    "description": "Descuentos sobre compras por pronto pago de mercader�as",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6061000000",
+    "description": "Descuentos sobre compras por pronto pago de materias primas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6062000000",
+    "description": "Descuentos sobre compras por pronto pago de otros aprovisionamientos",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6070000000",
+    "description": "Trabajos realizados por otras empresas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6080000000",
+    "description": "Devoluciones de compras de mercader�as",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6081000000",
+    "description": "Devoluciones de compras de materias primas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6082000000",
+    "description": "Devoluciones de compras de otros aprovisionamientos",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6090000000",
+    "description": "�Rappels� por compras de mercader�as",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6091000000",
+    "description": "�Rappels� por compras de materias primas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6092000000",
+    "description": "�Rappels� por compras de otros aprovisionamientos",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6100000000",
+    "description": "Variaci�n de existencias de mercader�as",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6110000000",
+    "description": "Variaci�n de existencias de materias primas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6120000000",
+    "description": "Variaci�n de existencias de otros aprovisionamientos",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6200000000",
+    "description": "Gastos en investigaci�n y desarrollo del ejercicio",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6210000000",
+    "description": "Arrendamientos y c�nones",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6220000000",
+    "description": "Reparaciones y conservaci�n",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6230000000",
+    "description": "Servicios de profesionales independientes",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6240000000",
+    "description": "Transportes",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6250000000",
+    "description": "Primas de seguros",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6260000000",
+    "description": "Servicios bancarios y similares",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6270000000",
+    "description": "Publicidad, propaganda y relaciones p�blicas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6280000000",
+    "description": "Suministros",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6290000000",
+    "description": "Otros servicios",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6300000000",
+    "description": "Impuesto corriente",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6301000000",
+    "description": "Impuesto diferido",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6310000000",
+    "description": "Otros tributos",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6330000000",
+    "description": "Ajustes negativos en la imposici�n sobre beneficios",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6340000000",
+    "description": "Ajustes negativos en la imposici�n indirecta",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6341000000",
+    "description": "Ajustes negativos en IVA de activo corriente",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6342000000",
+    "description": "Ajustes negativos en IVA de inversiones",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6360000000",
+    "description": "Devoluci�n de impuestos",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6380000000",
+    "description": "Ajustes positivos en la imposici�n sobre beneficios",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6390000000",
+    "description": "Ajustes positivos en la imposici�n indirecta",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6391000000",
+    "description": "Ajustes positivos en IVA de activo corriente",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6392000000",
+    "description": "Ajustes positivos en IVA de inversiones",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6400000000",
+    "description": "Sueldos y salarios",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6410000000",
+    "description": "Indemnizaciones",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6420000000",
+    "description": "Seguridad social a cargo de la empresa",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6430000000",
+    "description": "Retribuciones a largo plazo mediante sistemas de aportaci�n definida",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6440000000",
+    "description": "Contribuciones anuales",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6442000000",
+    "description": "Otros costes",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6450000000",
+    "description": "Retribuciones al personal liquidados con instrumentos de patrimonio",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6457000000",
+    "description": "Retribuciones al personal liquidados en efectivo basado en instrumentos de patrimonio",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6490000000",
+    "description": "Otros gastos sociales",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6500000000",
+    "description": "P�rdidas de cr�ditos comerciales incobrables",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6510000000",
+    "description": "Beneficio transferido (gestor)",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6511000000",
+    "description": "P�rdida soportada (part�cipe o asociado no gestor)",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6590000000",
+    "description": "Otras p�rdidas en gesti�n corriente",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6600000000",
+    "description": "Gastos financieros por actualizaci�n de provisiones",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6610000000",
+    "description": "Intereses de obligaciones y bonos a largo plazo, empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6611000000",
+    "description": "Intereses de obligaciones y bonos a largo plazo, empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6612000000",
+    "description": "Intereses de obligaciones y bonos a largo plazo, otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6613000000",
+    "description": "Intereses de obligaciones y bonos a largo plazo, otras empresas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6615000000",
+    "description": "Intereses de obligaciones y bonos a corto plazo, empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6616000000",
+    "description": "Intereses de obligaciones y bonos a corto plazo, empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6617000000",
+    "description": "Intereses de obligaciones y bonos a corto plazo, otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6618000000",
+    "description": "Intereses de obligaciones y bonos a corto plazo, otras empresas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6620000000",
+    "description": "Intereses de deudas, empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6621000000",
+    "description": "Intereses de deudas, empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6622000000",
+    "description": "Intereses de deudas, otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6623000000",
+    "description": "Intereses de deudas con entidades de cr�dito",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6624000000",
+    "description": "Intereses de deudas, otras empresas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6630000000",
+    "description": "P�rdidas de cartera de negociaci�n",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6631000000",
+    "description": "P�rdidas de designados por la empresa",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6632000000",
+    "description": "P�rdidas de disponibles para la venta",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6633000000",
+    "description": "P�rdidas de instrumentos de cobertura",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6640000000",
+    "description": "Dividendos de pasivos, empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6641000000",
+    "description": "Dividendos de pasivos, empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6642000000",
+    "description": "Dividendos de pasivos, otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6643000000",
+    "description": "Dividendos de pasivos, otras empresas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6650000000",
+    "description": "Intereses por descuento de efectos en entidades de cr�dito del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6651000000",
+    "description": "Intereses por descuento de efectos en entidades de cr�dito asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6652000000",
+    "description": "Intereses por descuento de efectos en otras entidades de cr�dito vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6653000000",
+    "description": "Intereses por descuento de efectos en otras entidades de cr�dito",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6654000000",
+    "description": "Intereses por operaciones de �factoring� con entidades de cr�dito del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6655000000",
+    "description": "Intereses por operaciones de �factoring� con entidades de cr�dito asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6656000000",
+    "description": "Intereses por operaciones de �factoring� con otras entidades de cr�dito vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6657000000",
+    "description": "Intereses por operaciones de �factoring� con otras entidades de cr�dito",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6660000000",
+    "description": "P�rdidas en valores representativos de deuda a largo plazo, empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6661000000",
+    "description": "P�rdidas en valores representativos de deuda a largo plazo, empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6662000000",
+    "description": "P�rdidas en valores representativos de deuda a largo plazo, otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6663000000",
+    "description": "P�rdidas en participaciones y valores representativos de deuda a largo plazo, otras empresas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6665000000",
+    "description": "P�rdidas en participaciones y valores representativos de deuda a corto plazo, empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6666000000",
+    "description": "P�rdidas en participaciones y valores representativos de deuda a corto plazo, empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6667000000",
+    "description": "P�rdidas en valores representativos de deuda a corto plazo, otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6668000000",
+    "description": "P�rdidas en valores representativos de deuda a corto plazo, otras empresas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6670000000",
+    "description": "P�rdidas de cr�ditos a largo plazo, empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6671000000",
+    "description": "P�rdidas de cr�ditos a largo plazo, empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6672000000",
+    "description": "P�rdidas de cr�ditos a largo plazo, otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6673000000",
+    "description": "P�rdidas de cr�ditos a largo plazo, otras empresas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6675000000",
+    "description": "P�rdidas de cr�ditos a corto plazo, empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6676000000",
+    "description": "P�rdidas de cr�ditos a corto plazo, empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6677000000",
+    "description": "P�rdidas de cr�ditos a corto plazo, otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6678000000",
+    "description": "P�rdidas de cr�ditos a corto plazo, otras empresas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6680000000",
+    "description": "Diferencias negativas de cambio",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6690000000",
+    "description": "Otros gastos financieros",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6700000000",
+    "description": "P�rdidas procedentes del inmovilizado intangible",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6710000000",
+    "description": "P�rdidas procedentes del inmovilizado material",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6720000000",
+    "description": "P�rdidas procedentes de las inversiones inmobiliarias",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6730000000",
+    "description": "P�rdidas procedentes de participaciones a largo plazo en partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6733000000",
+    "description": "P�rdidas procedentes de participaciones a largo plazo, empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6734000000",
+    "description": "P�rdidas procedentes de participaciones a largo plazo, empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6735000000",
+    "description": "P�rdidas procedentes de participaciones a largo plazo, otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6750000000",
+    "description": "P�rdidas por operaciones con obligaciones propias",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6780000000",
+    "description": "Gastos excepcionales",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6800000000",
+    "description": "Amortizaci�n del inmovilizado intangible",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6810000000",
+    "description": "Amortizaci�n del inmovilizado material",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6820000000",
+    "description": "Amortizaci�n de las inversiones inmobiliarias",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6900000000",
+    "description": "P�rdidas por deterioro del inmovilizado intangible",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6910000000",
+    "description": "P�rdidas por deterioro del inmovilizado material",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6920000000",
+    "description": "P�rdidas por deterioro de las inversiones inmobiliarias",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6930000000",
+    "description": "P�rdidas por deterioro de productos terminados y en curso de fabricaci�n",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6931000000",
+    "description": "P�rdidas por deterioro de mercader�as",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6932000000",
+    "description": "P�rdidas por deterioro de materias primas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6933000000",
+    "description": "P�rdidas por deterioro de otros aprovisionamientos",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6940000000",
+    "description": "P�rdidas por deterioro de cr�ditos por operaciones comerciales",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6950000000",
+    "description": "Dotaci�n a la provisi�n por operaciones comerciales",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6954000000",
+    "description": "Dotaci�n a la provisi�n por contratos onerosos",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6959000000",
+    "description": "Dotaci�n a la provisi�n para otras operaciones comerciales",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6960000000",
+    "description": "P�rdidas por deterioro de participaciones en instrumentos de patrimonio neto a largo plazo, empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6961000000",
+    "description": "P�rdidas por deterioro de participaciones en instrumentos de patrimonio neto a largo plazo, empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6962000000",
+    "description": "P�rdidas por deterioro de participaciones en instrumentos de patrimonio neto a largo plazo, otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6963000000",
+    "description": "P�rdidas por deterioro de participaciones en instrumentos de patrimonio neto a largo plazo, otras empresas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6965000000",
+    "description": "P�rdidas por deterioro en valores representativos de deuda a largo plazo, empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6966000000",
+    "description": "P�rdidas por deterioro en valores representativos de deuda a largo plazo, empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6967000000",
+    "description": "P�rdidas por deterioro en valores representativos de deuda a largo plazo, otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6968000000",
+    "description": "P�rdidas por deterioro en valores representativos de deuda a largo plazo, de otras empresas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6970000000",
+    "description": "P�rdidas por deterioro de cr�ditos a largo plazo, empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6971000000",
+    "description": "P�rdidas por deterioro de cr�ditos a largo plazo, empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6972000000",
+    "description": "P�rdidas por deterioro de cr�ditos a largo plazo, otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6973000000",
+    "description": "P�rdidas por deterioro de cr�ditos a largo plazo, otras empresas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6980000000",
+    "description": "P�rdidas por deterioro de participaciones en instrumentos de patrimonio neto a corto plazo, empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6981000000",
+    "description": "P�rdidas por deterioro de participaciones en instrumentos de patrimonio neto a corto plazo, empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6985000000",
+    "description": "P�rdidas por deterioro en valores representativos de deuda a corto plazo, empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6986000000",
+    "description": "P�rdidas por deterioro en valores representativos de deuda a corto plazo, empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6987000000",
+    "description": "P�rdidas por deterioro en valores representativos de deuda a corto plazo, otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6988000000",
+    "description": "P�rdidas por deterioro en valores representativos de deuda a corto plazo, de otras empresas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6990000000",
+    "description": "P�rdidas por deterioro de cr�ditos a corto plazo, empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6991000000",
+    "description": "P�rdidas por deterioro de cr�ditos a corto plazo, empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6992000000",
+    "description": "P�rdidas por deterioro de cr�ditos a corto plazo, otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "6993000000",
+    "description": "P�rdidas por deterioro de cr�ditos a corto plazo, otras empresas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7000000000",
+    "description": "Ventas de mercader�as",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7010000000",
+    "description": "Ventas de productos terminados",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7020000000",
+    "description": "Ventas de productos semiterminados",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7030000000",
+    "description": "Ventas de subproductos y residuos",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7040000000",
+    "description": "Ventas de envases y embalajes",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7050000000",
+    "description": "Prestaciones de servicios",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7060000000",
+    "description": "Descuentos sobre ventas por pronto pago de mercader�as",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7061000000",
+    "description": "Descuentos sobre ventas por pronto pago de productos terminados",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7062000000",
+    "description": "Descuentos sobre ventas por pronto pago de productos semiterminados",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7063000000",
+    "description": "Descuentos sobre ventas por pronto pago de subproductos y residuos",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7080000000",
+    "description": "Devoluciones de ventas de mercader�as",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7081000000",
+    "description": "Devoluciones de ventas de productos terminados",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7082000000",
+    "description": "Devoluciones de ventas de productos semiterminados",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7083000000",
+    "description": "Devoluciones de ventas de subproductos y residuos",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7084000000",
+    "description": "Devoluciones de ventas de envases y embalajes",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7090000000",
+    "description": "�Rappels� sobre ventas de mercader�as",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7091000000",
+    "description": "�Rappels� sobre ventas de productos terminados",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7092000000",
+    "description": "�Rappels� sobre ventas de productos semiterminados",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7093000000",
+    "description": "�Rappels� sobre ventas de subproductos y residuos",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7094000000",
+    "description": "�Rappels� sobre ventas de envases y embalajes",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7100000000",
+    "description": "Variaci�n de existencias de productos en curso",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7110000000",
+    "description": "Variaci�n de existencias de productos semiterminados",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7120000000",
+    "description": "Variaci�n de existencias de productos terminados",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7130000000",
+    "description": "Variaci�n de existencias de subproductos, residuos y materiales recuperados",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7300000000",
+    "description": "Trabajos realizados para el inmovilizado intangible",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7310000000",
+    "description": "Trabajos realizados para el inmovilizado material",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7320000000",
+    "description": "Trabajos realizados en inversiones inmobiliarias",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7330000000",
+    "description": "Trabajos realizados para el inmovilizado material en curso",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7400000000",
+    "description": "Subvenciones, donaciones y legados a la explotaci�n",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7460000000",
+    "description": "Subvenciones, donaciones y legados de capital transferidos al resultado del ejercicio",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7470000000",
+    "description": "Otras subvenciones, donaciones y legados transferidos al resultado del ejercicio",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7500000000",
+    "description": "Otros ingresos de gesti�n",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7510000000",
+    "description": "P�rdida transferida (gestor)",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7511000000",
+    "description": "Beneficio atribuido (part�cipe o asociado no gestor)",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7520000000",
+    "description": "Ingresos por arrendamientos",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7530000000",
+    "description": "Ingresos de propiedad industrial cedida en explotaci�n",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7540000000",
+    "description": "Ingresos por comisiones",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7550000000",
+    "description": "Ingresos por servicios al personal",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7590000000",
+    "description": "Ingresos por servicios diversos",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7600000000",
+    "description": "Ingresos de participaciones en instrumentos de patrimonio, empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7601000000",
+    "description": "Ingresos de participaciones en instrumentos de patrimonio, empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7602000000",
+    "description": "Ingresos de participaciones en instrumentos de patrimonio, otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7603000000",
+    "description": "Ingresos de participaciones en instrumentos de patrimonio, otras empresas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7610000000",
+    "description": "Ingresos de valores representativos de deuda, empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7611000000",
+    "description": "Ingresos de valores representativos de deuda, empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7612000000",
+    "description": "Ingresos de valores representativos de deuda, otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7613000000",
+    "description": "Ingresos de valores representativos de deuda, otras empresas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7620000000",
+    "description": "Ingresos de cr�ditos a largo plazo, empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7620100000",
+    "description": "Ingresos de cr�ditos a largo plazo, empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7620200000",
+    "description": "Ingresos de cr�ditos a largo plazo, otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7620300000",
+    "description": "Ingresos de cr�ditos a largo plazo, otras empresas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7621000000",
+    "description": "Ingresos de cr�ditos a corto plazo, empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7621100000",
+    "description": "Ingresos de cr�ditos a corto plazo, empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7621200000",
+    "description": "Ingresos de cr�ditos a corto plazo, otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7621300000",
+    "description": "Ingresos de cr�ditos a corto plazo, otras empresas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7630000000",
+    "description": "Beneficios de cartera de negociaci�n",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7631000000",
+    "description": "Beneficios de designados por la empresa",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7632000000",
+    "description": "Beneficios de disponibles para la venta",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7633000000",
+    "description": "Beneficios de instrumentos de cobertura",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7660000000",
+    "description": "Beneficios en valores representativos de deuda a largo plazo, empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7661000000",
+    "description": "Beneficios en valores representativos de deuda a largo plazo, empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7662000000",
+    "description": "Beneficios en valores representativos de deuda a largo plazo, otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7663000000",
+    "description": "Beneficios en participaciones y valores representativos de deuda a largo plazo, otras empresas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7665000000",
+    "description": "Beneficios en participaciones y valores representativos de deuda a corto plazo, empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7666000000",
+    "description": "Beneficios en participaciones y valores representativos de deuda a corto plazo, empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7667000000",
+    "description": "Beneficios en valores representativos de deuda a corto plazo, otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7668000000",
+    "description": "Beneficios en valores representativos de deuda a corto plazo, otras empresas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7670000000",
+    "description": "Ingresos de activos afectos y de derechos de reembolso relativos a retribuciones a largo plazo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7680000000",
+    "description": "Diferencias positivas de cambio",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7690000000",
+    "description": "Otros ingresos financieros",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7700000000",
+    "description": "Beneficios procedentes del inmovilizado intangible",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7710000000",
+    "description": "Beneficios procedentes del inmovilizado material",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7720000000",
+    "description": "Beneficios procedentes de las inversiones inmobiliarias",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7730000000",
+    "description": "Beneficios procedentes de participaciones a largo plazo en partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7733000000",
+    "description": "Beneficios procedentes de participaciones a largo plazo, empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7734000000",
+    "description": "Beneficios procedentes de participaciones a largo plazo, empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7735000000",
+    "description": "Beneficios procedentes de participaciones a largo plazo, otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7740000000",
+    "description": "Diferencia negativa en combinaciones de negocios",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7750000000",
+    "description": "Beneficios por operaciones con obligaciones propias",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7780000000",
+    "description": "Ingresos excepcionales",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7900000000",
+    "description": "Reversi�n del deterioro del inmovilizado intangible",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7910000000",
+    "description": "Reversi�n del deterioro del inmovilizado material",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7920000000",
+    "description": "Reversi�n del deterioro de las inversiones inmobiliarias",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7930000000",
+    "description": "Reversi�n del deterioro de productos terminados y en curso de fabricaci�n",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7931000000",
+    "description": "Reversi�n del deterioro de mercader�as",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7932000000",
+    "description": "Reversi�n del deterioro de materias primas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7933000000",
+    "description": "Reversi�n del deterioro de otros aprovisionamientos",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7940000000",
+    "description": "Reversi�n del deterioro de cr�ditos por operaciones comerciales",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7950000000",
+    "description": "Exceso de provisi�n por retribuciones al personal",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7951000000",
+    "description": "Exceso de provisi�n para impuestos",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7952000000",
+    "description": "Exceso de provisi�n para otras responsabilidades",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7954000000",
+    "description": "Exceso de provisi�n por operaciones comerciales",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7954400000",
+    "description": "Exceso de provisi�n por contratos onerosos",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7954900000",
+    "description": "Exceso de provisi�n para otras operaciones comerciales",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7955000000",
+    "description": "Exceso de provisi�n para actuaciones medioambientales",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7956000000",
+    "description": "Exceso de provisi�n para reestructuraciones",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7957000000",
+    "description": "Exceso de provisi�n por transacciones con pagos basados en instrumentos de patrimonio",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7960000000",
+    "description": "Reversi�n del deterioro de participaciones en instrumentos de patrimonio neto a largo plazo, empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7961000000",
+    "description": "Reversi�n del deterioro de participaciones en instrumentos de patrimonio neto a largo plazo, empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7965000000",
+    "description": "Reversi�n del deterioro de valores representativos de deuda a largo plazo, empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7966000000",
+    "description": "Reversi�n del deterioro de valores representativos de deuda a largo plazo, empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7967000000",
+    "description": "Reversi�n del deterioro de valores representativos de deuda a largo plazo, otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7968000000",
+    "description": "Reversi�n del deterioro de valores representativos de deuda a largo plazo, otras empresas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7970000000",
+    "description": "Reversi�n del deterioro de cr�ditos a largo plazo, empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7971000000",
+    "description": "Reversi�n del deterioro de cr�ditos a largo plazo, empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7972000000",
+    "description": "Reversi�n del deterioro de cr�ditos a largo plazo, otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7973000000",
+    "description": "Reversi�n del deterioro de cr�ditos a largo plazo, otras empresas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7980000000",
+    "description": "Reversi�n del deterioro de participaciones en instrumentos de patrimonio neto a corto plazo, empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7981000000",
+    "description": "Reversi�n del deterioro de participaciones en instrumentos de patrimonio neto a corto plazo, empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7985000000",
+    "description": "Reversi�n del deterioro en valores representativos de deuda a corto plazo, empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7986000000",
+    "description": "Reversi�n del deterioro en valores representativos de deuda a corto plazo, empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7987000000",
+    "description": "Reversi�n del deterioro en valores representativos de deuda a corto plazo, otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7988000000",
+    "description": "Reversi�n del deterioro en valores representativos de deuda a corto plazo, otras empresas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7990000000",
+    "description": "Reversi�n del deterioro de cr�ditos a corto plazo, empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7991000000",
+    "description": "Reversi�n del deterioro de cr�ditos a corto plazo, empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7992000000",
+    "description": "Reversi�n del deterioro de cr�ditos a corto plazo, otras partes vinculadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "7993000000",
+    "description": "Reversi�n del deterioro de cr�ditos a corto plazo, otras empresas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "8000000000",
+    "description": "P�rdidas en activos financieros disponibles para la venta",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "8020000000",
+    "description": "Transferencia de beneficios en activos financieros disponibles para la venta",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "8100000000",
+    "description": "P�rdidas por coberturas de flujos de efectivo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "8110000000",
+    "description": "P�rdidas por coberturas de inversiones netas en un negocio en el extranjero",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "8120000000",
+    "description": "Transferencia de beneficios por coberturas de flujos de efectivo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "8130000000",
+    "description": "Transferencia de beneficios por coberturas de inversiones netas en un negocio en el extranjero",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "8200000000",
+    "description": "Diferencias de conversi�n negativas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "8210000000",
+    "description": "Transferencia de diferencias de conversi�n positivas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "8300000000",
+    "description": "Impuesto corriente",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "8301000000",
+    "description": "Impuesto diferido",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "8330000000",
+    "description": "Ajustes negativos en la imposici�n sobre beneficios",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "8340000000",
+    "description": "Ingresos fiscales por diferencias permanentes",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "8350000000",
+    "description": "Ingresos fiscales por deducciones y bonificaciones",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "8360000000",
+    "description": "Transferencia de diferencias permanentes",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "8370000000",
+    "description": "Transferencia de deducciones y bonificaciones",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "8380000000",
+    "description": "Ajustes positivos en la imposici�n sobre beneficios",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "8400000000",
+    "description": "Transferencia de subvenciones oficiales de capital",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "8410000000",
+    "description": "Transferencia de donaciones y legados de capital",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "8420000000",
+    "description": "Transferencia de otras subvenciones, donaciones y legados",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "8500000000",
+    "description": "P�rdidas actuariales",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "8510000000",
+    "description": "Ajustes negativos en activos por retribuciones a largo plazo de prestaci�n definida",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "8600000000",
+    "description": "P�rdidas en activos no corrientes y grupos enajenables de elementos mantenidos para la venta",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "8620000000",
+    "description": "Transferencia de beneficios en activos no corrientes y grupos enajenables de elementos mantenidos para la venta",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "8900000000",
+    "description": "Gastos de participaciones en empresas del grupo o asociadas con ajustes valorativos positivos previos",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "8910000000",
+    "description": "Deterioro de participaciones en el patrimonio, empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "8920000000",
+    "description": "Deterioro de participaciones en el patrimonio, empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "9000000000",
+    "description": "Beneficios en activos financieros disponibles para la venta",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "9020000000",
+    "description": "Transferencia de p�rdidas de activos financieros disponibles para la venta",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "9100000000",
+    "description": "Beneficios por coberturas de flujos de efectivo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "9110000000",
+    "description": "Beneficios por coberturas de una inversi�n neta en un negocio en el extranjero",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "9120000000",
+    "description": "Transferencia de p�rdidas por coberturas de flujos de efectivo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "9130000000",
+    "description": "Transferencia de p�rdidas por coberturas de una inversi�n neta en un negocio en el extranjero",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "9200000000",
+    "description": "Diferencias de conversi�n positivas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "9210000000",
+    "description": "Transferencia de diferencias de conversi�n negativas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "9400000000",
+    "description": "Ingresos de subvenciones oficiales de capital",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "9410000000",
+    "description": "Ingresos de donaciones y legados de capital",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "9420000000",
+    "description": "Ingresos de otras subvenciones, donaciones y legados",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "9500000000",
+    "description": "Ganancias actuariales",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "9510000000",
+    "description": "Ajustes positivos en activos por retribuciones a largo plazo de prestaci�n definida",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "9600000000",
+    "description": "Beneficios en activos no corrientes y grupos enajenables de elementos mantenidos para la venta",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "9620000000",
+    "description": "Transferencia de p�rdidas en activos no corrientes y grupos enajenables de elementos mantenidos para la venta",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "9900000000",
+    "description": "Ingresos de participaciones en empresas del grupo o asociadas con ajustes valorativos negativos previos",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "9910000000",
+    "description": "Recuperaci�n de ajustes valorativos negativos previos, empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "9920000000",
+    "description": "Recuperaci�n de ajustes valorativos negativos previos, empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "9930000000",
+    "description": "Transferencia por deterioro de ajustes valorativos negativos previos, empresas del grupo",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  },
+  {
+    "correlationId": "",
+    "code": "9940000000",
+    "description": "Transferencia por deterioro de ajustes valorativos negativos previos, empresas asociadas",
+    "state": "Template",
+    "version": "0001-01-01T00:00:00Z",
+    "sequenceVersion": "0"
+  }
+]

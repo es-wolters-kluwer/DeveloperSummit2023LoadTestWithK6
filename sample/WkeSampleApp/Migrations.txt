@@ -1,0 +1,11 @@
+﻿1.- Instalar el cli de Entity Framework Core
+	
+	dotnet tool install --global dotnet-ef
+
+2.- Crear la migración inicial
+
+	dotnet ef migrations add InitialMigration --project WkeSampleLoadApp --output-dir Context/Migrations
+
+3.- Actualizar la base de datos
+
+	dotnet ef database update --project WkeSampleLoadApp

@@ -1,0 +1,101 @@
+[
+  {
+    "vatName": "PLEXINET SA",
+    "vatNumber": "P1274142G",
+    "state": "Enabled",
+    "accountLength": 10,
+    "correlationId": "dfd16a41-ecf4-4325-aaac-0481563ec547",
+    "version": "2021-11-18T12:00:46.3970487Z",
+    "sequenceVersion": "637728336463970480"
+  },
+  {
+    "vatName": "BABYLAGE SA",
+    "vatNumber": "G93212975",
+    "state": "Enabled",
+    "accountLength": 10,
+    "correlationId": "d0293e8f-7eff-47df-bf60-2bed53e5193e",
+    "version": "2021-11-18T12:00:46.3970487Z",
+    "sequenceVersion": "637728336463970480"
+  },
+  {
+    "vatName": "CATAGASH SL",
+    "vatNumber": "V94972882",
+    "state": "Enabled",
+    "accountLength": 10,
+    "correlationId": "3bff1ad3-5ce6-4790-8812-df02e4c300c0",
+    "version": "2021-11-18T12:00:46.3970487Z",
+    "sequenceVersion": "637728336463970480"
+  },
+  {
+    "vatName": "MENG SL",
+    "vatNumber": "N7743675F",
+    "state": "Enabled",
+    "accountLength": 10,
+    "correlationId": "1bb06788-4482-4541-85af-869bfd026e36",
+    "version": "2021-11-18T12:00:46.3970487Z",
+    "sequenceVersion": "637728336463970480"
+  },
+  {
+    "vatName": "CELLENS SA",
+    "vatNumber": "Q8617012C",
+    "state": "Enabled",
+    "accountLength": 10,
+    "correlationId": "c662356e-f23f-4cdc-88a1-087c6dee37fa",
+    "version": "2021-11-18T12:00:46.3970487Z",
+    "sequenceVersion": "637728336463970480"
+  },
+  {
+    "vatName": "PANSOFT SL",
+    "vatNumber": "Q9044973G",
+    "state": "Enabled",
+    "accountLength": 10,
+    "correlationId": "4c843949-39d6-47c4-a1ff-0d089954e05e",
+    "version": "2021-11-18T12:00:46.3970487Z",
+    "sequenceVersion": "637728336463970480"
+  },
+  {
+    "vatName": "WELOOD SA",
+    "vatNumber": "U37824307",
+    "state": "Enabled",
+    "accountLength": 10,
+    "correlationId": "59755dcd-8890-4688-abb5-65dc14a76b87",
+    "version": "2021-11-18T12:00:46.3970487Z",
+    "sequenceVersion": "637728336463970480"
+  },
+  {
+    "vatName": "WELOOD SA",
+    "vatNumber": "U37824307",
+    "state": "Enabled",
+    "accountLength": 10,
+    "correlationId": "7e98e025-d4e2-4961-8beb-c330fa077038",
+    "version": "2021-11-18T12:00:46.3970487Z",
+    "sequenceVersion": "637728336463970480"
+  },
+  {
+    "vatName": "HASCOPE SL",
+    "vatNumber": "J03830775",
+    "state": "Enabled",
+    "accountLength": 10,
+    "correlationId": "8edde984-2008-4938-9957-5e9261e9b068",
+    "version": "2021-11-18T12:00:46.3970487Z",
+    "sequenceVersion": "637728336463970480"
+  },
+  {
+    "vatName": "VITAWASTRE SA",
+    "vatNumber": "F56165897",
+    "state": "Enabled",
+    "accountLength": 10,
+    "correlationId": "551a8ade-0ee4-4929-818c-edb83f6d2f28",
+    "version": "2021-11-18T12:00:46.3970487Z",
+    "sequenceVersion": "637728336463970480"
+  },
+  {
+    "vatName": "TASH SA",
+    "vatNumber": "N9306912H",
+    "state": "Enabled",
+    "accountLength": 10,
+    "correlationId": "f2e593b0-4c93-463d-8593-ab9a08fa5007",
+    "version": "2021-11-18T12:00:46.3970487Z",
+    "sequenceVersion": "637728336463970480"
+  }
+]

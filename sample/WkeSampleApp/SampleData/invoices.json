@@ -1,0 +1,102 @@
+[
+  {
+    "CorrelationId": "9999ba47-4450-4deb-b2fb-d0313b9e7e8b",
+    "InvoiceDate": "2023-01-18",
+    "AccountCode": "4300000000",
+    "Concept": "Ventas de productos 1",
+    "Amount": 100.00,
+    "TaxAmount": 21.00,
+    "version": "2021-11-18T12:00:46.3970487Z",
+    "sequenceVersion": "637728336463970480"
+  },
+  {
+    "CorrelationId": "dd75739b-e845-43f3-b1a4-dff74edf0fd4",
+    "InvoiceDate": "2023-01-26",
+    "AccountCode": "4300000000",
+    "Concept": "Ventas de productos 2",
+    "Amount": 110.00,
+    "TaxAmount": 23.10,
+    "version": "2021-11-18T12:00:46.3970487Z",
+    "sequenceVersion": "637728336463970480"
+  },
+  {
+    "CorrelationId": "014b322e-947f-4ae0-aea0-f9912d3a095b",
+    "InvoiceDate": "2023-02-10",
+    "AccountCode": "4300000000",
+    "Concept": "Ventas de productos 3",
+    "Amount": 150.00,
+    "TaxAmount": 31.50,
+    "version": "2021-11-18T12:00:46.3970487Z",
+    "sequenceVersion": "637728336463970480"
+  },
+  {
+    "CorrelationId": "f34e100e-67ae-46f1-b737-11c22f100ed5",
+    "InvoiceDate": "2023-02-20",
+    "AccountCode": "4300000000",
+    "Concept": "Ventas de productos 4",
+    "Amount": 80.00,
+    "TaxAmount": 16.80,
+    "version": "2021-11-18T12:00:46.3970487Z",
+    "sequenceVersion": "637728336463970480"
+  },
+  {
+    "CorrelationId": "2dabd2c2-15ac-406c-bf49-109f4eb622f3",
+    "InvoiceDate": "2023-03-10",
+    "AccountCode": "4300000000",
+    "Concept": "Ventas de productos 5",
+    "Amount": 210.00,
+    "TaxAmount": 44.10,
+    "version": "2021-11-18T12:00:46.3970487Z",
+    "sequenceVersion": "637728336463970480"
+  },
+  {
+    "CorrelationId": "935b9456-8e70-4e0e-95af-5556f4e5d01f",
+    "InvoiceDate": "2023-01-12",
+    "AccountCode": "4000000000",
+    "Concept": "Compras 1",
+    "Amount": -50.00,
+    "TaxAmount": -10.50,
+    "version": "2021-11-18T12:00:46.3970487Z",
+    "sequenceVersion": "637728336463970480"
+  },
+  {
+    "CorrelationId": "c00835b5-91e9-45bf-b836-31ca044d9f7f",
+    "InvoiceDate": "2023-01-30",
+    "AccountCode": "4000000000",
+    "Concept": "Compras 2",
+    "Amount": -75.00,
+    "TaxAmount": -15.75,
+    "version": "2021-11-18T12:00:46.3970487Z",
+    "sequenceVersion": "637728336463970480"
+  },
+  {
+    "CorrelationId": "cd037c32-0924-4f53-9e3e-0fe946f9c129",
+    "InvoiceDate": "2023-02-04",
+    "AccountCode": "4000000000",
+    "Concept": "Compras 3",
+    "Amount": -60.00,
+    "TaxAmount": -12.6,
+    "version": "2021-11-18T12:00:46.3970487Z",
+    "sequenceVersion": "637728336463970480"
+  },
+  {
+    "CorrelationId": "78850993-4a21-4a54-86a7-425930e2483a",
+    "InvoiceDate": "2023-02-19",
+    "AccountCode": "4000000000",
+    "Concept": "Compras 4",
+    "Amount": -105.00,
+    "TaxAmount": -22.05,
+    "version": "2021-11-18T12:00:46.3970487Z",
+    "sequenceVersion": "637728336463970480"
+  },
+  {
+    "CorrelationId": "ebd854d0-10c8-40b4-a064-90e7687cc844",
+    "InvoiceDate": "2023-02-14",
+    "AccountCode": "4000000000",
+    "Concept": "Compras 5",
+    "Amount": -85.00,
+    "TaxAmount": -17.85,
+    "version": "2021-11-18T12:00:46.3970487Z",
+    "sequenceVersion": "637728336463970480"
+  }
+]

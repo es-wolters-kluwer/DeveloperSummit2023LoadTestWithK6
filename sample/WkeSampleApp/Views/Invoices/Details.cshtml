@@ -1,0 +1,52 @@
+﻿@using WkeSampleLoadApp.a3innuva
+
+@model InvoiceModel
+@{
+    ViewData["Title"] = "Home Page";
+    var companyCorrelationId = ViewBag.CompanyCorrelationId;
+}
+
+<div class="text-center">
+    
+    <h1 class="display-4">Factura</h1>
+    <hr />
+
+    <div>
+        <dl class="row">
+            <dt class = "col-sm-2">
+                @Html.DisplayNameFor(model => model.InvoiceDate)
+            </dt>
+            <dd class = "col-sm-10">
+                @Html.DisplayFor(model => model.InvoiceDate)
+            </dd>
+            <dt class = "col-sm-2">
+                @Html.DisplayNameFor(model => model.Concept)
+            </dt>
+            <dd class = "col-sm-10">
+                @Html.DisplayFor(model => model.Concept)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.AccountCode)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.AccountCode)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Amount)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Amount)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.TaxAmount)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.TaxAmount)
+            </dd>
+        </dl>
+    </div>
+    <div style="text-align: left;">
+        <a asp-action="Index" asp-route-companyCorrelationId="@companyCorrelationId" class="btn btn-default">Back to List</a>
+    </div>
+
+</div>

@@ -1,0 +1,2 @@
+$env:K6_PROMETHEUS_RW_SERVER_URL="http://localhost:9090/api/v1/write"
+$env:K6_PROMETHEUS_RW_TREND_AS_NATIVE_HISTOGRAM='true'

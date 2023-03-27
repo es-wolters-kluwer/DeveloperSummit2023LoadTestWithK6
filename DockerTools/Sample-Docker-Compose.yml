@@ -1,0 +1,18 @@
+version: '3'
+
+services:
+  sqlserver:    
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    environment:
+      MSSQL_PID: Developer
+      SA_PASSWORD: EPpgD*ZL5Bzk         
+      ACCEPT_EULA: Y
+  sampleloadapp:    
+    image: wke/sampleapp
+    depends_on: 
+      sqlserver:
+        condition: service_started
+    ports:    
+    - 3033:80
+    
+    
