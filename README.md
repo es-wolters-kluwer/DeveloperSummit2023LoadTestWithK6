@@ -3,6 +3,10 @@ This project have all support files and projects for the Load Test with K6 Hands
 
 This readme file is a guide to follow the hands on lab.
 
+# Prerrequisites
+1. Install a docker client [rancher](https://rancherdesktop.io/)
+2. Install 
+
 # Getting Started
 Before start the hands on lab, it's necessary build and execute a sample app. Then we build a solution tests to load test this app.
 
