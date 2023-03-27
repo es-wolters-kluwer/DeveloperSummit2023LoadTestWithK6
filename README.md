@@ -5,7 +5,8 @@ This readme file is a guide to follow the hands on lab.
 
 # Prerrequisites
 1. Install a docker client [rancher](https://rancherdesktop.io/)
-2. Install 
+2. Install [k6](https://k6.io/docs/get-started/installation/)
+3. Install [GO](https://go.dev/dl/go1.17.7.windows-amd64.msi)
 
 # Getting Started
 Before start the hands on lab, it's necessary build and execute a sample app. Then we build a solution tests to load test this app.
