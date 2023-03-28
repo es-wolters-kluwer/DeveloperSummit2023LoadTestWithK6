@@ -361,11 +361,11 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 
-Data/Grafana/
-
-Data/Grafana/
-
 .vscode/
 
 Data/Prometheus/data/
 
+
+Data/Grafana/grafana.db
+
+Data/Grafana/alerting/1/

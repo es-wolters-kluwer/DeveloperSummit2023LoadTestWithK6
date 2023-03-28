@@ -77,10 +77,7 @@
       "pluginVersion": "9.3.6",
       "targets": [
         {
-          "datasource": {
-            "type": "prometheus",
-            "uid": "XpqLmEx4z"
-          },
+          "datasource":"prometheus",            
           "editorMode": "builder",
           "expr": "k6_vus_max",
           "legendFormat": "__auto",
@@ -275,10 +272,7 @@
       "type": "stat"
     },
     {
-      "datasource": {
-        "type": "prometheus",
-        "uid": "XpqLmEx4z"
-      },
+      "datasource": "prometheus",        
       "fieldConfig": {
         "defaults": {
           "color": {
@@ -598,10 +592,8 @@
           "refId": "A"
         },
         {
-          "datasource": {
-            "type": "prometheus",
-            "uid": "XpqLmEx4z"
-          },
+          "datasource": "prometheus",
+            
           "editorMode": "builder",
           "expr": "sum(rate(k6_http_reqs_total[$__rate_interval]))",
           "hide": false,
@@ -889,7 +881,7 @@
           "refId": "B"
         }
       ],
-      "title": "Panel Title",
+      "title": "Used memory",
       "type": "timeseries"
     },
     {
@@ -983,7 +975,7 @@
           "refId": "A"
         }
       ],
-      "title": "Panel Title",
+      "title": "Request",
       "type": "table"
     },
     {
@@ -1077,7 +1069,7 @@
           "refId": "A"
         }
       ],
-      "title": "Panel Title",
+      "title": "Groups",
       "type": "table"
     }
   ],

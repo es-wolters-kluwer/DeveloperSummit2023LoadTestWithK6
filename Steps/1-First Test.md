@@ -4,7 +4,7 @@
 2. Write following code:
 ```javascript
 import http from 'k6/http'
-import {sleep} from 'k6
+import {sleep} from 'k6'
 
 export default function ()
 {   
