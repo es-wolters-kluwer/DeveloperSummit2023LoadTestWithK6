@@ -10,4 +10,4 @@ datasources:
       httpMethod: POST
       manageAlerts: true
       prometheusType: Prometheus
-      prometheusVersion: 2.19.x      
+      prometheusVersion: 2.40.1      

@@ -386,7 +386,7 @@
           "refId": "A"
         }
       ],
-      "title": "Max CPU Usage Sample",
+      "title": "Max CPU Usage SQL Server",
       "type": "stat"
     },
     {
@@ -446,7 +446,7 @@
           "refId": "A"
         }
       ],
-      "title": "Max CPU Usage Sample",
+      "title": "Max Memory Usage Sample",
       "type": "stat"
     },
     {
@@ -506,7 +506,7 @@
           "refId": "A"
         }
       ],
-      "title": "Max CPU Usage Sample",
+      "title": "Max Memory Usage SQL Server",
       "type": "stat"
     },
     {
@@ -1106,8 +1106,8 @@
     ]
   },
   "time": {
-    "from": "2023-03-04T12:26:16.069Z",
-    "to": "2023-03-04T12:33:50.762Z"
+    "from": "now-15m",
+    "to": "now"
   },
   "timepicker": {},
   "timezone": "",

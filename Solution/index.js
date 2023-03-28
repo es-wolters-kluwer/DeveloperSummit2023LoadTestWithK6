@@ -8,9 +8,9 @@ const contentType = 'application/x-www-form-urlencoded';
 //Configure users
 export const options = {
     stages: [
-        { target: 10, duration: '5s' },
-        { target: 10, duration: '10s'},
-        { target: 0, duration: '2s'}
+        { target: 20, duration: '30s' },
+        { target: 20, duration: '5m'},
+        { target: 0, duration: '10s'}
     ],
     thresholds: {
         http_req_failed:['rate<0.01'],
